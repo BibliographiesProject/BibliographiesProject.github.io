@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test"
+title                    : "Bibliographies Website"
 title_separator          : "-"
 name                     : "Bibliographies Admin"
 description              : "The website for hosting the Bibliographies Project"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Testing"
+  name             : "Chief Librarian"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "TEsting bio for the bibliographies project"
+  location         :
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "BibliographiesProject"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: tests1
     values:
       layout: single
       author_profile: true
@@ -205,14 +205,14 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: tests2
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: tests3
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: test34
     values:
       layout: single
       author_profile: true
