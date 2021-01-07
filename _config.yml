@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Bibliographies Website"
 title_separator          : "-"
-name                     : "Bibliographies Admin"
-description              : "The website for hosting the Bibliographies Project"
+name                     : &name "Bibliographies Admin"
+description              : &description "The website for hosting the Bibliographies Project"
 url                      : https://bibliographiesproject.github.io/bibliographiesproject/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://bibliographiesproject.github.io/bibliographiesproject/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chief Librarian"
   avatar           : "profile.png"
-  bio              : "TEsting bio for the bibliographies project"
+  bio              : "Testing bio for the bibliographies project"
   location         :
   employer         :
   pubmed           :
