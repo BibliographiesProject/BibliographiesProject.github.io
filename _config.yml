@@ -85,7 +85,7 @@ author:
   bio              : "Testing bio for the bibliographies project"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  Reddit           : "https://old.reddit.com/r/bibliographies/"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "BibliographiesProject"
+  github           : "https://github.com/BibliographiesProject/Bibliographies"
   google_plus      :
   keybase          :
   instagram        :
