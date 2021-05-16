@@ -1,9 +1,9 @@
 ---
 title: "Alpha Publication"
 collection: publications
-permalink: /publication/2021-5-15
+permalink: /publication/2021-05-15
 excerpt: 'This paper is the first publication for the project'
-date: 05/21/2021
+date: 2021-05-15
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
