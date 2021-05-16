@@ -1,5 +1,5 @@
 ---
-title: "\Alpha Publication"
+title: "Alpha Publication"
 collection: publications
 permalink: /publication/2021-5-15
 excerpt: 'This paper is the first publication for the project'
